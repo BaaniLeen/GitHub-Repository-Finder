@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jolly/Desktop/Udacity/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c3d33ba434b68f6ffa80021fad9d1862a07840d3">
+        <dex dex="/Users/Jolly/Desktop/Udacity/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cbd6d4d0018f82d62f78f561ecdaab22286ff072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jolly/Desktop/GitHub-Repository-Finder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Jolly/Desktop/GitHub-Repository-Finder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2fd6e97c512ae3bd041c36c8b91960943b15d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jolly/Desktop/Udacity/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Jolly/Desktop/Udacity/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a6526337468fbee4dd9dfa757a5389f69cbc409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jolly/Desktop/GitHub-Repository-Finder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5baccf9ec025bd9892ad9b67270a822f8f03d1e7">
+        <dex dex="/Users/Jolly/Desktop/GitHub-Repository-Finder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8b7e4d71a440160e07ac77e9dde59dbc2d9cb3c/classes.dex" />
+    </item>
+
+</items>
